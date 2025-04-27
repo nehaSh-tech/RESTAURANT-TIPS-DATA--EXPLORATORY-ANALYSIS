@@ -1,5 +1,5 @@
 # RESTAURANT-TIPS-DATA--EXPLORATORY-ANALYSIS
-Overview
+Overview::
 This project presents an interactive dashboard analysis of the Restaurant Tips dataset. The goal is to uncover customer behavior insights based on gender, day of the week, group size, and smoker status, focusing on billing and tipping patterns.
 
 The dashboard was built using Power BI to visualize key metrics and trends.
